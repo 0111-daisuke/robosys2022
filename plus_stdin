@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#ⓒ2022 Daisuke Mori
+#SPDX-FileCopyrighhtText: 2022 Daisuke Mori
 import sys
 
 def tonum(s):
