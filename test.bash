@@ -1,3 +1,7 @@
 #!/bin/bash
+#SPDX-FileCopyrightText: 2022 Daisuke Mori
+#SPDX-License-Identifier: BSD-3-clause
 
-seq 5 |./plus
+out=$(seq 5 |./plus)
+
+[ "${out}" = 15 ]
