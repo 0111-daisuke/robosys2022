@@ -7,15 +7,15 @@ plusは入力した数値を足すコードです。
 
 ## 動作手順
 * インストール
-'''
+```
 $git clone git@github.com/0111-daisuke/robosys2022/blob/main/plus
 $cd robosys2022
-'''
+```
 * 下記のように実行
-'''
+```
 $seq 5 | ./plus
 
-'''
+```
 
 ## 必要なソフトウェア
 * Python 3.7~3.10
