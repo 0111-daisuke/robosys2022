@@ -3,7 +3,7 @@
 
 # plusコマンド
 ![test](https://github.com/0111-daisuke/robosys2022/actions/workflows/test.yml/badge.svg)
-plusは入力した数値を足すコードです。
+* plusは入力した数値を足すコードです。
 
 ## 動作手順
 * インストール
