@@ -8,13 +8,13 @@ plusは入力した数値を足すコードです。
 ## 動作手順
 * インストール
 ```
-$git clone git@github.com/0111-daisuke/robosys2022/blob/main/plus
-$cd robosys2022
+$ git clone git@github.com/0111-daisuke/robosys2022/blob/main/plus
+$ cd robosys2022
 ```
-* 下記のように実行
+* 下記のように実行(15は実行結果)
 ```
-$seq 5 | ./plus
-
+$ seq 5 | ./plus
+$ 15
 ```
 
 ## 必要なソフトウェア
