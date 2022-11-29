@@ -9,8 +9,8 @@
 * 
 
 ## 必要なソフトウェア
-* Python
- * テスト済み: Ubuntu 18.04.5 on Windows 3.7~3.10
+* Python 3.7~3.10
+* 動作確認済み: Ubuntu 18.04.5 on Windows
 
 ## テスト環境
 * Ubuntu 18.04.5 on Windows
