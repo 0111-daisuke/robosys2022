@@ -4,7 +4,7 @@
 ![test](https://github.com/0111-daisuke/robosys2022/actions/workflows/test.yml/badge.svg)
 入力した数値を足すコードです。
 
-##動作手順
+## 動作手順
 
 ## 必要なソフトウェア
 * Python
